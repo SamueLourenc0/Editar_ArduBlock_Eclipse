@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jun 08 15:37:01 BST 2020
+@default-central-http\://repo1.maven.org/maven2/.lastUpdated=1591627021908
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.apache.poi\:poi-ooxml\:pom\:3.9 from/to central (http\://repo1.maven.org/maven2)\: Transfer failed for http\://repo1.maven.org/maven2/org/apache/poi/poi-ooxml/3.9/poi-ooxml-3.9.pom 501 HTTPS Required

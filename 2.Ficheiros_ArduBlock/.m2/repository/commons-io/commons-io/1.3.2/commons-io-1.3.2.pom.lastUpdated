@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jun 08 15:37:01 BST 2020
+@default-central-http\://repo1.maven.org/maven2/.lastUpdated=1591627021971
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact commons-io\:commons-io\:pom\:1.3.2 from/to central (http\://repo1.maven.org/maven2)\: Transfer failed for http\://repo1.maven.org/maven2/commons-io/commons-io/1.3.2/commons-io-1.3.2.pom 501 HTTPS Required

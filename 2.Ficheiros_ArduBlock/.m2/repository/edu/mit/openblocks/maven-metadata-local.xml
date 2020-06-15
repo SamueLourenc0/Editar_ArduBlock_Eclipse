@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>edu.mit</groupId>
+  <artifactId>openblocks</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.2-SNAPSHOT</version>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200608143843</lastUpdated>
+  </versioning>
+</metadata>
